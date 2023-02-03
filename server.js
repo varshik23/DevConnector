@@ -7,6 +7,8 @@ PORT = process.env.PORT || 5006;
 
 connectDB();
 
+app.use(express.json({ extended: false }))
+
 app.get('/', (req, res) => res.send("API testing"));
 
 app.use('/api/users', require('./routes/api/users'));
