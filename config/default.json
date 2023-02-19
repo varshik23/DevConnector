@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://Varshik:Var123@devconnector.v5xdeoe.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://Varshik:Var123@devconnector.v5xdeoe.mongodb.net/?retryWrites=true&w=majority",
+    "jwtToken" : "secrettoken"
 }
