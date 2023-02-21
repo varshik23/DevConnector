@@ -1,4 +1,6 @@
 {
     "mongoURI" : "mongodb+srv://Varshik:Var123@devconnector.v5xdeoe.mongodb.net/?retryWrites=true&w=majority",
-    "jwtToken" : "secrettoken"
+    "jwtToken" : "secrettoken",
+    "githubusername" : "4702e75195ed0b469e29",
+    "githubclientsecret": "f1d7e32c2f952b489b0dd7fcf3ca35110d075619"
 }
